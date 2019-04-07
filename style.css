@@ -1,0 +1,45 @@
+* {
+    background-color: bisque;
+}
+
+.giphyBut {
+    background-color: aliceblue;
+    color: black;
+    font-size: 28px;
+}
+
+
+
+#giphyHead {
+    font-size: 90px;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/15/08/23/galaxy-2643089_960_720.jpg);
+    color: white;
+    height: 88px;
+    padding: 48px;
+    margin: 28px;
+    font-family: fantasy;
+}
+
+#addGiphy {
+    background-color: gold;
+    font-size: 18px;
+    margin: 28px;
+}
+
+label {
+font-size: 48px;
+}
+#box {
+    width: 960px;
+    height: -400px;
+    margin: 40px 0px;
+    border: 1px solid black;
+    background-color: #fff;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 128px 230px;
+  }
+  footer {
+      text-align: center;
+  }
