@@ -1,5 +1,7 @@
 
 $("#addGiphy").click(function () {
+
+    console.log("ready!");
     //grab values from the text box:
     var btnTxt = $("#giphyInput").val();
 
